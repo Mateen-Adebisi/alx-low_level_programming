@@ -47,4 +47,3 @@ u
         hours_tens++;
         }
 }
-}
